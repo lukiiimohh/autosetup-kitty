@@ -145,3 +145,7 @@ Here is an image of how my `~/.zshrc` looks like
 Once we have everything done, the script can be executed with `alias $IP $NAME` or if we haven't created the alias `python3 /path/to/file/script.py IP NAME`
 
 </details>
+
+## Video 📸
+Aquí tienes un vídeo para ver como funciona el script `/` Here you can see a video of how the script works!  
+https://youtu.be/XEXcTLyDg6Q
