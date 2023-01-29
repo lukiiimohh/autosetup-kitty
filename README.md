@@ -149,4 +149,4 @@ Once we have everything done, the script can be executed with `alias $IP $NAME` 
 ## Video 📸
 Aquí tienes un vídeo para ver como funciona el script ✂️ Here you can see a video of how the script works!  
 https://youtu.be/XEXcTLyDg6Q  
-Se me olvidó hacer `ls`, pero el script crea su propio directorio con el nombre de la máquina ✂️ I forgot to do `ls` but the script creates it's own directory with the machine name!
+Se me olvidó hacer `ls`, pero el script crea su propio directorio con el nombre de la máquina, igualmente se puede ver en el `pwd` de EWW o en la propia shell ✂️ I forgot to do `ls` but the script creates it's own directory with the machine name! anyways you can see it in the EWW `pwd` or in the shell.
