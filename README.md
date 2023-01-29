@@ -147,6 +147,6 @@ Once we have everything done, the script can be executed with `alias $IP $NAME` 
 </details>
 
 ## Video 📸
-Aquí tienes un vídeo para ver como funciona el script Here you can see a video of how the script works!  
+Aquí tienes un vídeo para ver como funciona el script ✂️ Here you can see a video of how the script works!  
 https://youtu.be/XEXcTLyDg6Q  
-Se me olvidó hacer `ls`, pero el script crea su propio directorio con el nombre de la máquina / I forgot to do `ls` but the script creates it's own directory with the machine name!
+Se me olvidó hacer `ls`, pero el script crea su propio directorio con el nombre de la máquina ✂️ I forgot to do `ls` but the script creates it's own directory with the machine name!
